@@ -181,8 +181,8 @@
                 <groupId>org.easyb</groupId>
                 <artifactId>easyb-core</artifactId>
                 <version>${easyb.version}</version>
-                <scope>test</scope>
-            </dependency>
+                <scope>test</scope>      
+          </dependency>
         </dependencies>
     </dependencyManagement>
     <dependencies>
